@@ -4,4 +4,4 @@ The purpose of this issue tracker is to allow users of the Pardee Institute for 
 
 To start flagging potential errors, navigate to the Issues tab above and follow the instructions posted there.
 
-Our team will active monitor this issue tracker and seek to incorporate fixes in the next regularly scheduled update. For other questions or concerns, please contact Pardee.Institute@du.edu.
+Our team will actively monitor this issue tracker and seek to incorporate fixes in the next regularly scheduled update. For other questions or concerns, please contact Pardee.Institute@du.edu.
