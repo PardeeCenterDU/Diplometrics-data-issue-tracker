@@ -4,7 +4,7 @@ The purpose of this issue tracker is to allow users of the Pardee Institute for 
 
 Our team will actively monitor this issue tracker and seek to incorporate fixes in the next regularly scheduled update. For other questions or concerns, please contact Pardee.Institute@du.edu.
 
-# Instruction to flag a potential error
+# Instructions to flag a potential error
 Go to "Issues"
 
 Confirm your issue has not already been reported. If it has not then continue on.
