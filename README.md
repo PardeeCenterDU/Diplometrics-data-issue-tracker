@@ -13,13 +13,13 @@ Click on "New Issue"
 
 Please include the following information in the description of the potential error:
 
-Short Description of the Error / Restate of the title
-Date found
-Dataset Version (version number and/or file date)
-Description of error - Long form and additional details beyond what is in the title, including links to relevant sources, if available
-Add the issue label that corresponds with the dataset of concern (e.g., PMAD)
-Add any other relevant labels (e.g., missing information; incorrect information)
-Add collinmeisel as "Assignee"
+- Short Description of the Error / Restate of the title
+- Date found
+- Dataset Version (version number and/or file date)
+- Description of error - Long form and additional details beyond what is in the title, including links to relevant sources, if available
+- Add the issue label that corresponds with the dataset of concern (e.g., PMAD)
+- Add any other relevant labels (e.g., missing information; incorrect information)
+- Add collinmeisel as "Assignee"
 
 Submit!
 
