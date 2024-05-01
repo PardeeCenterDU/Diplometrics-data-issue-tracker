@@ -23,4 +23,4 @@ Add collinmeisel as "Assignee"
 
 Submit!
 
-We will seek to address this issue as soon as possible. Meanwhile, thank you for taking the time to help us improve our data.
+*We will seek to address this issue as soon as possible. Meanwhile, thank you for taking the time to help us improve our data.*
